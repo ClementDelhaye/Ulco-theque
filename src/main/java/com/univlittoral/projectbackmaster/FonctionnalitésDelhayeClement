@@ -1,0 +1,7 @@
+DELHAYE Clément
+
+Fonctionnalités : 
+  - Le GET pour afficher tous les livres (tous les détails), pour un livre en particulier avec son id, pour tous les auteurs ou un en particulier avec l'id, et tous les livres filtrés par le genre choisis.
+  - Le POST pour l'ajout d'un livre ( attention, il faut choisir "Choisir l'auteur" ou ne rien choisir dans la liste des auteurs sinon l'ajout ne fonctionne pas. ) 
+  - Le PUT pour la modification d'un livre ( même problème que pour le post )
+  - Le DELETE pour la suppression d'un livre
